@@ -2,13 +2,13 @@
 title: "Acrylic"
 date: 2013-06-17 00:00:00
 excerpt: "While the International Polar Foundation was busy building the first “zero emission” research station in Antarctica, I got to build the website for it."
-project_url: http://www.antarcticstation.org
-project_website: www.antarcticstation.org
-project_tagline: "Zero emission Antarctic research station"
-project_thumbnail: antarcticstation_thumb.jpg
-project_image_small: antarcticstation_600.jpg
-project_image_medium: antarcticstation_1024.jpg
-project_image_large: antarcticstation_1500.jpg
+artwork_url: http://www.antarcticstation.org
+artwork_website: www.antarcticstation.org
+artwork_tagline: "Zero emission Antarctic research station"
+artwork_thumbnail: antarcticstation_thumb.jpg
+artwork_image_small: antarcticstation_600.jpg
+artwork_image_medium: antarcticstation_1024.jpg
+artwork_image_large: antarcticstation_1500.jpg
 categories:
 - Web
 tags:

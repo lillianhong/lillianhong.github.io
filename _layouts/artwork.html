@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<main class="maincontent" role="main">
+
+  <div class="grid  grid--center">
+    <div class="grid__unit  medium-span-10of12  large-span-8of12">
+
+      <article class="item">
+
+        <header class="item__header">
+          <p class="item-info  item-info--big  aligncenter">
+            {% if page.artwork_url and page.artwork_website %}
+              <a href="{{ page.artwork_url }}">{{ page.artwork_website }}</a>
+            {% else %}
+              project no longer online
+            {% endif %}
+          </p>
+          <h1 class="h1  h1--notop  aligncenter">{{ page.title }}</h1>
+        </header>
+
+        <div class="item__summary  intro">
+          {{ page.excerpt }}
+        </div>
+
+        <figure class="figure  figure--full">
+           <img src="{{ page.artwork_image_small | prepend:'/img/projects/' }}"
+                srcset="{{ page.artwork_image_large | prepend:'/img/projects/' }} 1500w,
+                        {{ page.artwork_image_medium | prepend:'/img/projects/' }} 1024w,
+                        {{ page.artwork_image_small | prepend:'/img/projects/' }} 600w"
+                sizes="100vw"
+                alt="{{ page.title }}" class="imgfluid">
+        </figure>
+
+        <div class="item__body  wysiwyg">
+          {{ content }}
+        </div>
+
+      </article>
+
+    </div>
+  </div>
+
+</main>
