@@ -2,10 +2,10 @@
 title: "Work Experience"
 date: 2014-07-15 00:00:00
 excerpt: "Internships and other work experience."
-project_url: http://www.arcticfutures.org
-project_website: www.arcticfutures.org
-project_tagline: "Event website on a deadline"
-project_year: 2014
+project_url: 
+project_website: 
+project_tagline: "Internships and other work experience"
+project_year: 2015
 project_thumbnail: arcticfutures_thumb.jpg
 project_image_small: arcticfutures_600.jpg
 project_image_medium: arcticfutures_1024.jpg

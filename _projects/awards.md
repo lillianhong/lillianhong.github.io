@@ -2,9 +2,9 @@
 title: "Awards"
 date: 2015-04-01 00:00:00
 excerpt: "Honors, awards, and accomplishments."
-project_url: http://www.equal-partners.eu
-project_website: www.equal-partners.eu
-project_tagline: "A new breed of law firm"
+project_url: 
+project_website: 
+project_tagline: "Honors, awards, and accomplishments"
 project_year: 2015
 project_thumbnail: equal_thumb.jpg
 project_image_small: equal_600.jpg

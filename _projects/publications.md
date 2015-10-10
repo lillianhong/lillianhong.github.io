@@ -2,10 +2,10 @@
 title: "Publications"
 date: 2011-12-20 00:00:00
 excerpt: "Publications of my artwork."
-project_url: http://www.garedesglaciers.com
-project_website: www.garedesglaciers.com
-project_tagline: "Small bed and breakfast in Chamonix"
-project_year: 2011
+project_url: 
+project_website: 
+project_tagline: "Publications of my artwork"
+project_year: 2015
 project_thumbnail: garedesglaciers_thumb.jpg
 project_image_small: garedesglaciers_600.jpg
 project_image_medium: garedesglaciers_1024.jpg

@@ -1,10 +1,10 @@
 ---
 title: "Artwork"
 date: 2013-06-17 00:00:00
-excerpt: "Collection of artworks."
+excerpt: "Art portfolio."
 project_url: http://www.antarcticstation.org
 project_website: www.antarcticstation.org
-project_tagline: "Zero emission Antarctic research station"
+project_tagline: "Art portfolio"
 project_thumbnail: antarcticstation_thumb.jpg
 project_image_small: antarcticstation_600.jpg
 project_image_medium: antarcticstation_1024.jpg
