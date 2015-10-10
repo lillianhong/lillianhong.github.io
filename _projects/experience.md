@@ -1,7 +1,7 @@
 ---
 title: "Work Experience"
 date: 2014-07-15 00:00:00
-excerpt: "Arctic Futures is an annual international symposium promoting dialog on Arctic-related issues. I was hired to develop a website and had just 3 weeks to design and build it from scratch. A relatively small project on a tight deadline."
+excerpt: "Internships and experiences"
 project_url: http://www.arcticfutures.org
 project_website: www.arcticfutures.org
 project_tagline: "Event website on a deadline"
