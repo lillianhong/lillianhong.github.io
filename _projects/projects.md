@@ -4,10 +4,10 @@ date: 2013-12-08 00:00:00
 excerpt: "Virtual reality projects."
 project_tagline: "Virtual reality projects"
 project_year: 2015
-project_thumbnail: sciencepoles_thumb.jpg
-project_image_small: sciencepoles_600.jpg
-project_image_medium: sciencepoles_1024.jpg
-project_image_large: sciencepoles_1500.jpg
+project_thumbnail: oculus.jpg
+project_image_small: oculus.jpg
+project_image_medium: oculus.jpg
+project_image_large: oculus.jpg
 categories:
 - Web
 tags:
