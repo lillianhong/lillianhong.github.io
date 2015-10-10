@@ -2,8 +2,6 @@
 title: "Awards"
 date: 2015-04-01 00:00:00
 excerpt: "Honors, awards, and accomplishments."
-project_url: 
-project_website: 
 project_tagline: "Honors, awards, and accomplishments"
 project_year: 2015
 project_thumbnail: equal_thumb.jpg

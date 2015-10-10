@@ -2,8 +2,8 @@
 title: "Artwork"
 date: 2013-06-17 00:00:00
 excerpt: "Art portfolio."
-project_url: http://www.antarcticstation.org
-project_website: www.antarcticstation.org
+project_url: 
+project_website: 
 project_tagline: "Art portfolio"
 project_thumbnail: antarcticstation_thumb.jpg
 project_image_small: antarcticstation_600.jpg
