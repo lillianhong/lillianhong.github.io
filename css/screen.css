@@ -2105,16 +2105,16 @@ code {
       padding: 9em 0; } }
 
 .siteheader__banner--1 {
-  background-image: url(../img/banners/banner1_600.jpg); }
+  background-image: url(../img/banners/banner.png); }
   @media all and (min-width: 37.5em) {
     .siteheader__banner--1 {
-      background-image: url(../img/banners/banner1_800.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 47.5em) {
     .siteheader__banner--1 {
-      background-image: url(../img/banners/banner1_1024.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 64em) {
     .siteheader__banner--1 {
-      background-image: url(../img/banners/banner1_1500.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
 
 .siteheader__banner--2 {
   background-image: url(../img/banners/banner.png); }
@@ -2129,40 +2129,40 @@ code {
       background-image: url(../img/banners/banner.png); } }
 
 .siteheader__banner--3 {
-  background-image: url(../img/banners/banner3_600.jpg); }
+  background-image: url(../img/banners/banner.png); }
   @media all and (min-width: 37.5em) {
     .siteheader__banner--3 {
-      background-image: url(../img/banners/banner3_800.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 47.5em) {
     .siteheader__banner--3 {
-      background-image: url(../img/banners/banner3_1024.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 64em) {
     .siteheader__banner--3 {
-      background-image: url(../img/banners/banner3_1500.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
 
 .siteheader__banner--4 {
-  background-image: url(../img/banners/banner4_600.jpg); }
+  background-image: url(../img/banners/banner.png); }
   @media all and (min-width: 37.5em) {
     .siteheader__banner--4 {
-      background-image: url(../img/banners/banner4_800.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 47.5em) {
     .siteheader__banner--4 {
-      background-image: url(../img/banners/banner4_1024.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 64em) {
     .siteheader__banner--4 {
-      background-image: url(../img/banners/banner4_1500.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
 
 .siteheader__banner--5 {
-  background-image: url(../img/banners/banner5_600.jpg); }
+  background-image: url(../img/banners/banner.png); }
   @media all and (min-width: 37.5em) {
     .siteheader__banner--5 {
-      background-image: url(../img/banners/banner5_800.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 47.5em) {
     .siteheader__banner--5 {
-      background-image: url(../img/banners/banner5_1024.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 64em) {
     .siteheader__banner--5 {
-      background-image: url(../img/banners/banner5_1500.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
 
 .banner-title {
   margin: 0;
