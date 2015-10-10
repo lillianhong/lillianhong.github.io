@@ -1,7 +1,7 @@
 ---
 title: "Volunteering"
 date: 2013-04-07 00:00:00
-excerpt: "The International Polar Foundation needed to create, maintain and run a series of websites. Rather than hiring an external agency, they wanted a long term partnership with a designer / developer."
+excerpt: "Dedication towards community service and organizations. "
 project_url: http://www.polarfoundation.org
 project_website: www.polarfoundation.org
 project_tagline: "Building a web presence from scratch"

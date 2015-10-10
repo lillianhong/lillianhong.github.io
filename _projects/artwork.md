@@ -1,5 +1,5 @@
 ---
-title: "Studio Artwork"
+title: "Artwork"
 date: 2013-06-17 00:00:00
 excerpt: "While the International Polar Foundation was busy building the first “zero emission” research station in Antarctica, I got to build the website for it."
 project_url: http://www.antarcticstation.org
