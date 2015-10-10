@@ -33,7 +33,7 @@ defaults:
     values:
       layout: "portfolio"
       current_nav: "work"
-       -
+  -
     scope:
       path: "work"
       type: "artwork"
