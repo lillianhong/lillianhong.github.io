@@ -2,8 +2,6 @@
 title: "Volunteering"
 date: 2013-04-07 00:00:00
 excerpt: "Dedication towards community service and organizations. "
-project_url: 
-project_website: 
 project_tagline: "Dedication towards community service and organizations"
 project_year: 2012
 project_thumbnail: polarfoundation_thumb.jpg

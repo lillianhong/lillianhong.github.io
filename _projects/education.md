@@ -2,8 +2,6 @@
 title: "Education"
 date: 2014-03-10 00:00:00
 excerpt: "History of education in school and art."
-project_url: 
-project_website: 
 project_tagline: "History of education in school and art"
 project_year: 2014
 project_thumbnail: renerobert_thumb.jpg

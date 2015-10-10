@@ -2,8 +2,6 @@
 title: "Publications"
 date: 2011-12-20 00:00:00
 excerpt: "Publications of my artwork."
-project_url: 
-project_website: 
 project_tagline: "Publications of my artwork"
 project_year: 2015
 project_thumbnail: garedesglaciers_thumb.jpg

@@ -1,9 +1,7 @@
 ---
 title: "Projects"
 date: 2013-12-08 00:00:00
-excerpt: "SciencePoles is an online magasine publishing in-depth articles and interviews about Polar Science and research. Designing for long form content was definitely the main challenge for this project."
-project_url: 
-project_website: 
+excerpt: "Virtual reality projects."
 project_tagline: "Virtual reality projects"
 project_year: 2015
 project_thumbnail: sciencepoles_thumb.jpg
