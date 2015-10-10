@@ -11,12 +11,12 @@ current_nav: portfolio
     <div class="intromodule">
       <h2 class="intromodule__title">Web design &amp; development</h2>
       <div class="intromodule__text">
-        <p>Projects my clients and myself worked on together. Some are fresh out of the oven, while others are a bit older. I tried my best to give you a little bit of variety.</p>
+        <p>artwork my clients and myself worked on together. Some are fresh out of the oven, while others are a bit older. I tried my best to give you a little bit of variety.</p>
       </div>
     </div>
 
-    {% assign projects = site.projects | sort: 'date' | reverse %}
-    {% for item in projects limit:8 %}
+    {% assign artwork = site.artwork | sort: 'date' | reverse %}
+    {% for item in artwork limit:8 %}
 
       {% if forloop.first %}<ul class="grid  grid--spaced"><li class="grid__unit  medium-span-6of12  large-span-4of12">{% endif %}
 
@@ -24,7 +24,7 @@ current_nav: portfolio
           <a href="{{ item.url }}">
             <p class="imgcontainer  project__image">
               <span class="project__overlay"></span>
-              <img src="{{ item.project_thumbnail | prepend:'/img/projects/' }}" class="imgfluid" alt="{{ item.title }}">
+              <img src="{{ item.project_thumbnail | prepend:'/img/artwork/' }}" class="imgfluid" alt="{{ item.title }}">
             </p>
             <h2 class="project__title">{{ item.title }}</h2>
             <p class="project__description">{{ item.project_tagline }}</p>
@@ -43,7 +43,7 @@ current_nav: portfolio
     <div class="intromodule">
       <h2 class="intromodule__title">How the sausage is made</h2>
       <div class="intromodule__text">
-        <p>I work for one client at a time so I can focus all my attention on your project. I favour partnerships over one-shot projects and use a simple iterative workflow.</p>
+        <p>I work for one client at a time so I can focus all my attention on your project. I favour partnerships over one-shot artwork and use a simple iterative workflow.</p>
       </div>
     </div>
     <ol class="workflow  grid  grid--center">
@@ -75,7 +75,7 @@ current_nav: portfolio
    --><li class="grid__unit  medium-span-5of12">
         <h3 class="h4  h4--notop">Launch &amp; follow-up</h3>
         <p class="workflow__tagline">Launch day is when it really begins</p>
-        <p>After the final payment has been made, the site is published online and the adventure begins. Most clients know I like long term projects and ask me to stay involved for a little while after launch, but that is not mandatory.</p>
+        <p>After the final payment has been made, the site is published online and the adventure begins. Most clients know I like long term artwork and ask me to stay involved for a little while after launch, but that is not mandatory.</p>
       </li>
     </ol>
   </section>
