@@ -4,10 +4,10 @@ date: 2015-04-01 00:00:00
 excerpt: "Honors, awards, and accomplishments."
 project_tagline: "Honors, awards, and accomplishments"
 project_year: 2015
-project_thumbnail: equal_thumb.jpg
-project_image_small: equal_600.jpg
-project_image_medium: equal_1024.jpg
-project_image_large: equal_1500.jpg
+project_thumbnail: scholastic.jpg
+project_image_small: scholastic.jpg
+project_image_medium: scholastic.jpg
+project_image_large: scholastic.jpg
 categories:
 - Web
 tags:
