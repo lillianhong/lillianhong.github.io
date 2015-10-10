@@ -2117,16 +2117,16 @@ code {
       background-image: url(../img/banners/banner1_1500.jpg); } }
 
 .siteheader__banner--2 {
-  background-image: url(../img/banners/banner2_600.jpg); }
+  background-image: url(../img/banners/banner.png); }
   @media all and (min-width: 37.5em) {
     .siteheader__banner--2 {
-      background-image: url(../img/banners/banner2_800.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 47.5em) {
     .siteheader__banner--2 {
-      background-image: url(../img/banners/banner2_1024.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
   @media all and (min-width: 64em) {
     .siteheader__banner--2 {
-      background-image: url(../img/banners/banner2_1500.jpg); } }
+      background-image: url(../img/banners/banner.png); } }
 
 .siteheader__banner--3 {
   background-image: url(../img/banners/banner3_600.jpg); }
