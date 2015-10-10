@@ -35,9 +35,9 @@ defaults:
       current_nav: "work"
   -
     scope:
-      path: "work"
+      path: "portfolio"
       type: "artwork"
     values:
-      layout: "portfolio"
+      layout: "artwork"
       current_nav: "portfolio"
 
