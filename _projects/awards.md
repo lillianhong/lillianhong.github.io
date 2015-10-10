@@ -1,5 +1,5 @@
 ---
-title: "EQUAL Partners"
+title: "Awards"
 date: 2015-04-01 00:00:00
 excerpt: "EQUAL is a new law firm based in Brussels that believes in new ways of working. I was hired to develop their web presence and had just 10 days to put a basic website online."
 project_url: http://www.equal-partners.eu

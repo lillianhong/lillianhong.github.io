@@ -1,5 +1,5 @@
 ---
-title: "Tramway21"
+title: "Delete"
 date: 2015-10-20 00:00:00
 excerpt: "Tramway21 is a communication agency helping brands to create products and services improving people's lives. We worked together to refresh their branding and relaunch their website."
 project_url: http://tramway21.be

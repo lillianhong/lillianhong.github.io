@@ -33,5 +33,3 @@ defaults:
     values:
       layout: "portfolio"
       current_nav: "work"
-
-
