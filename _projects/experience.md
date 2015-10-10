@@ -4,10 +4,10 @@ date: 2014-07-15 00:00:00
 excerpt: "Internships and other work experience."
 project_tagline: "Internships and other work experience"
 project_year: 2015
-project_thumbnail: arcticfutures_thumb.jpg
-project_image_small: arcticfutures_600.jpg
-project_image_medium: arcticfutures_1024.jpg
-project_image_large: arcticfutures_1500.jpg
+project_thumbnail: bca.png
+project_image_small: bca.png
+project_image_medium: bca.png
+project_image_large: bca.png
 categories:
 - Web
 tags:
