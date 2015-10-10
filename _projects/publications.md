@@ -1,5 +1,5 @@
 ---
-title: "Gare des Glaciers"
+title: "Publications"
 date: 2011-12-20 00:00:00
 excerpt: "The “Gare des Glaciers” is a small Bed & Breakfast in Chamonix. I built a multilingual website to showcase and promote the B&B, its surroundings and services offered to guests."
 project_url: http://www.garedesglaciers.com
