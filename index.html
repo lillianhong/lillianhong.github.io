@@ -59,33 +59,4 @@ banner: true
 
   </section>
 
-
-  <section class="pagemodule">
-
-    <div class="intromodule">
-      <h2 class="intromodule__title">From the Blog</h2>
-      <div class="intromodule__text">
-        <p>My latest thoughts &amp; ramblings. I mostly write to remember all of this when I am old and nodding by the fire. Read on if you feel so inclined.</p>
-      </div>
-    </div>
-
-    {% for item in site.posts limit:2 %}
-
-      {% if forloop.first %}<ul class="grid  grid--spaced"><li class="grid__unit  medium-span-6of12">{% endif %}
-
-      <article>
-        <p class="item-info"><time datetime="{{ item.date|date:'%Y-%m-%d' }}">{{ item.date|date:"%B %-d, %Y" }}</time></p>
-        <h3 class="h4  h4--notop"><a href="{{ item.url }}">{{ item.title }}</a></h3>
-        <p>{{ item.excerpt }}</p>
-        <p><a href="{{ item.url }}" class="more">Read More</a></p>
-      </article>
-
-      {% if forloop.last %}</li></ul>{% else %}</li><li class="grid__unit  medium-span-6of12">{% endif %}
-
-    {% endfor %}
-
-    <p class="buttoncontainer  aligncenter"><a href="/blog/" class="button">All blogposts</a></p>
-
-  </section>
-
 </main>
