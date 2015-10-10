@@ -17,13 +17,13 @@ tags:
 - Mobile first
 ---
 
-## Documenting an adventure
+## Multimedia
 
 When the [International Polar Foundation](http://www.polarfoundation.org) decided to build the [Princess Elisabeth station](http://www.antarcticstation.org) in Antarctica, they decided to document the project online from start to finish for sponsors and the public to follow.
 
 Right from the start, I had to plan for an evolving website: documenting the construction of a station is not the same thing as when the station is running. I also had to plan for a wide diversity of content types and data structures: from news and press releases to videos and picture galleries.
 
-## A modular pages system
+## Acrylic
 
 The content of the website revolves around three main objectives:
 
@@ -35,7 +35,7 @@ We decided that the first two objectives would be best served through the creati
 
 Using [ExpressionEngine](https://ellislab.com/expressionengine) and [Playa](http://devot-ee.com/add-ons/playa), the client can create content modules that can then be assembled into pages. With a minimal set of modules, they are able to produce a wide diversity of rich pages, tailor made to the content that needs to be communicated. Content modules can also be shared by multiple pages if needed.
 
-## Navigating through a wealth of content
+## Graphite
 
 The website was overhauled recently to a mobile-first responsive approach. We took that opportunity to make the site as easy to use as possible by keeping the main navigation very simple and working on the main landing pages.
 

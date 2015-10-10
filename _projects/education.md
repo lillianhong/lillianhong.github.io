@@ -1,10 +1,10 @@
 ---
 title: "Education"
 date: 2014-03-10 00:00:00
-excerpt: "History of my education in school and art."
+excerpt: "History of education in school and art."
 project_url: 
 project_website: 
-project_tagline: "History of my education in school and art"
+project_tagline: "History of education in school and art"
 project_year: 2014
 project_thumbnail: renerobert_thumb.jpg
 project_image_small: renerobert_600.jpg
@@ -18,14 +18,18 @@ tags:
 - Mobile first
 ---
 
-## Pictures first
+## Bergen County Academies
 
 The challenge here was to build a very [simple portfolio website for René Robert](http://www.renerobert.net) that would just let the pictures speak for themselves. I focused on getting the typography right and used a very simple color palette that would blend nicely with René's pictures.
 
 The site is responsive because that's just the way I build websites these days, but it means René can use it to showcase his work to potential clients on his iPad, which he loves.
 
-## Storytelling
+## Sharron Art Center
 
 We both wanted to avoid the typical way to present picture galleries through thumbnails and modal windows. We looked at various solutions and settled on a very simple one which allow each project to tell a small story using pictures and text captions. This works surprisingly well with his "Great Alpinists" series.
 
 The site is powered by [Craft](buildwithcraft.com) and the Matrix field allows René to add pictures to projects easily, reorder them as he wishes or add quotes in between. He can even preview a project page before publishing it live on his website.
+
+## UPenn SAAST Precollege
+
+Computer Graphics course

@@ -19,7 +19,7 @@ tags:
 - Mobile first
 ---
 
-## A lean and iterative first phase
+## Scholastic Art and Writing Awards
 
 The [EQUAL](http://equal-partners.eu) project is an interesting one: a group of established and young lawyers stepped out of their comfort zone to create a new company together. They set out to reimagine what a Law Firm could be and found innovative ways to collaborate between themselves and with their clients.
 
@@ -27,7 +27,7 @@ In just 10 days, a team put together by [Major Tom](http://major-tom-company.eu/
 
 From a web point of view, the priority was to create an online presence for EQUAL. After working on the content, I developed a graphical style guide to establish a design language. A responsive one page website was developed in just 5 days using [Jekyll](http://jekyllrb.com).
 
-## Phase two: a fully-fledged website
+## Congressional Art Competition
 
 After a memorable inauguration party, it was time to work on the second incarnation of the EQUAL website, powered by [Craft CMS](http://buildwithcraft.com).
 
