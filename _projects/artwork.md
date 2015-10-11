@@ -3,10 +3,10 @@ title: "Artwork"
 date: 2013-06-17 00:00:00
 excerpt: "Art portfolio."
 project_tagline: "Art portfolio"
-project_thumbnail: antarcticstation_thumb.jpg
-project_image_small: antarcticstation_600.jpg
-project_image_medium: antarcticstation_1024.jpg
-project_image_large: antarcticstation_1500.jpg
+project_thumbnail: artwork.png
+project_image_small: artwork.png
+project_image_medium: artwork.png
+project_image_large: artwork.png
 categories:
 - Web
 tags:
