@@ -4,10 +4,10 @@ date: 2013-04-07 00:00:00
 excerpt: "Dedication towards community service and organizations. "
 project_tagline: "Dedication towards community service and organizations"
 project_year: 2012
-project_thumbnail: polarfoundation_thumb.jpg
-project_image_small: polarfoundation_600.jpg
-project_image_medium: polarfoundation_1024.jpg
-project_image_large: polarfoundation_1500.jpg
+project_thumbnail: oculus.jpg
+project_image_small: oculus.jpg
+project_image_medium: oculus.jpg
+project_image_large: oculus.jpg
 categories:
 - Web
 tags:
