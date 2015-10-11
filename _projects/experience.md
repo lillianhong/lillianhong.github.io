@@ -18,12 +18,8 @@ tags:
 
 ## Intern at Bergen County Academies
 
-[Arctic Futures](http://www.arcticfutures.org) is a free symposium but, seats being available in limited numbers, the organisers wanted attendees to register prior to the symposium. I built a system allowing them to easily control whether registrations are open or closed: flicking a switch in the control panel triggers a few changes on the front end and activate or deactivate the registration form.
-
-I worked with [Craft](http://www.buildwithcraft.com) as the Content Management System for the website and whipped together a small notification plugin that, combined with the [Guest Entries](https://github.com/pixelandtonic/GuestEntries) first party plugin, allowed me to create a modular registration form using email notifications in no time.
+Under construction
 
 ## Summer Intern at Bergen County Academies
 
-The other important piece of that project was the symposium schedule. As anybody having organised such an event would know, the programme is in a constant state of flux until a few weeks before the event. Using Craft and [Matrix](https://buildwithcraft.com/features/matrix), I was able to build a highly modular tool allowing the client to add, delete and rearrange sessions or breaks to compose the programme. Using live preview, they can have a look at the full schedule before publishing it online.
-
-Now, they can make the programme evolve until a few days before the event. When the programme is finalised, the graphical team has a sound basis for the printed version.
+Under construction

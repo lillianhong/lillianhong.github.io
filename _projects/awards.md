@@ -19,24 +19,9 @@ tags:
 
 ## Scholastic Art and Writing Awards
 
-The [EQUAL](http://equal-partners.eu) project is an interesting one: a group of established and young lawyers stepped out of their comfort zone to create a new company together. They set out to reimagine what a Law Firm could be and found innovative ways to collaborate between themselves and with their clients.
-
-In just 10 days, a team put together by [Major Tom](http://major-tom-company.eu/) worked together to create a brand new logo, a video teaser, a graphical identity and a one page website in three languages. Several photo shootings were conducted as well.
-
-From a web point of view, the priority was to create an online presence for EQUAL. After working on the content, I developed a graphical style guide to establish a design language. A responsive one page website was developed in just 5 days using [Jekyll](http://jekyllrb.com).
+Under construction
+[Scholastic](http://www.artandwriting.org/).
 
 ## Congressional Art Competition
 
-After a memorable inauguration party, it was time to work on the second incarnation of the EQUAL website, powered by [Craft CMS](http://buildwithcraft.com).
-
-The goals were to create a website that would showcase EQUAL's motto: "Law for Better Living". As lawyers, it is crucial for them to be perceived as approachable and in touch with the citizens and their concerns.
-
-The website mainly consists in the following key components, tied together by a simple relationships system:
-
-- A team section with profile pages for each team member
-- Detail pages presenting EQUAL's areas of expertise
-- Articles written by the team
-
-The website was developed in three languages and, despite its relative complexity, can easily be managed by the EQUAL team, thanks to the ease of use of Craft's control panel.
-
-From the various feedback we had since launch, it looks like we succeeded in creating a website reflecting EQUAL's philosophy and ethos. Its was certainly very interesting to work with a group of people believing in their dreams and setting out to build something new.
+Under construction

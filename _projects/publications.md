@@ -18,6 +18,6 @@ tags:
 
 ## Celebrating Art Summer 2015
 
-In 2011, the [Gare des Glaciers bed & breakfast](http://www.garedesglaciers.com) was just starting out. The budget for the website was small but the owner wanted something that would set the website apart. We decided to build a responsive website that would give guests and potential clients everything they needed in just one page. The owner himself can easily update anything on his website in both languages, thanks to ExpressionEngine.
+Under construction
 
-If you ever go to Chamonix, consider paying the Gare des Glaciers a visit. There is nothing like looking at the Mont-Blanc while eating a croissant for breakfast.
+## Celebrating Art Summer 2014
