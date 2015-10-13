@@ -1,8 +1,8 @@
 ---
 title: "Volunteering"
 date: 2013-04-07 00:00:00
-excerpt: "Dedication towards community service and organizations. "
-project_tagline: "Dedication towards community service and organizations"
+excerpt: "Community service and organizations. "
+project_tagline: "Community service and organizations"
 project_year: 2012
 project_thumbnail: oculus.jpg
 project_image_small: oculus.jpg
