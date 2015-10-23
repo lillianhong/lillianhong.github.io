@@ -17,11 +17,37 @@ tags:
 - Mobile first
 ---
 
-## Scholastic Art and Writing Awards
+## Art
 
-Under construction
-[Scholastic](http://www.artandwriting.org/).
+Scholastic Art and Writing Awards
+	- 2014: Honorable Mentions (2)
+	- 2013: Silver Key, Honorable Mention
+	- 2012: Gold Key
 
-## Congressional Art Competition
+Congressional Art Competition
 
-Under construction
+	2015 Honorable Mention
+
+NJACD (New Jersey Association of Conservation Districts) National Poster Contest
+
+	2013 National Honorable Mention and NJ State 1st place
+	2009 National and NJ state 1st place
+	2007 National and NJ state 1st place
+
+Lions Club Peace Poster Contest:   
+	
+	2011 NJ State 1st place
+	2010 NJ State 1st place
+	2009 NJ State 2nd place
+
+## Piano
+
+ABRSM (Associated Board of the Royal Schools of Music) International London Exam
+	2012 Level 8: Passed with merit
+
+## Archery
+
+Archery League
+	2013-2015 2nd place
+	2012 3rd place
+	2011 2nd place
