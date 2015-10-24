@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2015-01-03 00:00:00
+date: 2015-01-06 00:00:00
 excerpt: "Artwork publications."
 project_tagline: "Artwork publications"
 project_year: 2015

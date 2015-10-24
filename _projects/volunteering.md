@@ -1,6 +1,6 @@
 ---
 title: "Volunteering"
-date: 2015-01-08 00:00:00
+date: 2015-01-01 00:00:00
 excerpt: "Community service and organizations. "
 project_tagline: "Community service and organizations"
 project_year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Awards"
-date: 2015-01-02 00:00:00
+date: 2015-01-07 00:00:00
 excerpt: "Honors, awards, and accomplishments."
 project_tagline: "Honors, awards, and accomplishments"
 project_year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "VR Projects"
-date: 2015-01-04 00:00:00
+date: 2015-01-05 00:00:00
 excerpt: "Virtual reality projects."
 project_tagline: "Virtual reality projects"
 project_year: 2015

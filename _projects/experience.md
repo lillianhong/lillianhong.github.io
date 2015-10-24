@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-date: 2015-01-01 00:00:00
+date: 2015-01-08 00:00:00
 excerpt: "Internships and other work experience."
 project_tagline: "Internships and other work experience"
 project_year: 2015
