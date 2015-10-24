@@ -20,9 +20,9 @@ tags:
 ## Art
 
 Scholastic Art and Writing Awards
-2014 Honorable Mentions (2)
-2013 Silver Key, Honorable Mention
-2012 Gold Key
+- 2014 Honorable Mentions (2)
+- 2013 Silver Key, Honorable Mention
+- 2012 Gold Key
 
 Congressional Art Competition
 
@@ -43,11 +43,11 @@ Lions Club Peace Poster Contest:
 ## Piano
 
 ABRSM (Associated Board of the Royal Schools of Music) International London Exam
-2012 Level 8: Passed with merit
+- 2012 Level 8: Passed with merit
 
 ## Archery
 
 Archery League
-2013 - 2015 2nd place
-2012 3rd place
-2011 2nd place
+- 2013 - 2015 2nd place
+- 2012 3rd place
+- 2011 2nd place
