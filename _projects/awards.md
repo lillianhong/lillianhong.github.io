@@ -26,13 +26,13 @@ Scholastic Art and Writing Awards
 
 Congressional Art Competition
 
-	- 2015 Honorable Mention
+-2015 Honorable Mention
 
 NJACD (New Jersey Association of Conservation Districts) National Poster Contest
 
-	- 2013 National Honorable Mention and NJ State 1st place
-	- 2009 National and NJ state 1st place
-	- 2007 National and NJ state 1st place
+-2013 National Honorable Mention and NJ State 1st place
+-2009 National and NJ state 1st place
+-2007 National and NJ state 1st place
 
 Lions Club Peace Poster Contest:   
 	
