@@ -23,16 +23,16 @@ Class of 2016
 
 Courses
 
-- Interactive Design I, II, III, Advanced Topics
-- Oculus Rift Development
-
 - AP Computer Science A
 - AP Calculus AB 
 - AP Psychology
 - IB Literature and Language HL
-- Advanced Physics (3)
-- Advanced Chemistry (3)
-- Advanced Biology (2)
+- Advanced Physics (3 years)
+- Advanced Chemistry (3 years)
+- Advanced Biology (2 years)
+- Interactive Design I, II, III, Advanced Topics
+- Oculus Rift Development
+- Technology Research
 
 ## Sharron Art Center
 
