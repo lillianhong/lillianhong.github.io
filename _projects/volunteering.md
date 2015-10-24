@@ -4,10 +4,10 @@ date: 2015-01-01 00:00:00
 excerpt: "Community service and organizations. "
 project_tagline: "Community service and organizations"
 project_year: 2012
-project_thumbnail: oculus.jpg
-project_image_small: 
-project_image_medium: 
-project_image_large: 
+project_thumbnail: volunteering.jpg
+project_image_small: volunteering.jpg
+project_image_medium: volunteering.jpg
+project_image_large: volunteering.jpg
 categories:
 - Web
 tags:
