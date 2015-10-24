@@ -16,24 +16,24 @@ tags:
 - Mobile first
 ---
 
-## Project: KnightHawk
+## Senior Engineering Capstone: KnightHawk
 
-Under construction
+(In progress)
 
 ## Experience
 
 Skills:
-	Autodesk CAD
-	Autodesk Inventor
-	3D printing
-	CNC Milling
-	Waterjetting
-	Laser cutting
+	- Autodesk CAD
+	- Autodesk Inventor
+	- 3D printing
+	- CNC Milling
+	- Waterjetting
+	- Laser cutting
 
 Courses Taken:
-	Intermediate and Advanced Electrical Engineering
-	Computer Integrated Manufacturing
-	Principles of Engineering and Material Sciences
-	Engineering Technology
-	Digital Electronics
-	Introduction to Engineering and Design I, II
+	- Intermediate and Advanced Electrical Engineering
+	- Computer Integrated Manufacturing
+	- Principles of Engineering and Material Sciences
+	- Engineering Technology
+	- Digital Electronics
+	- Introduction to Engineering and Design I, II
