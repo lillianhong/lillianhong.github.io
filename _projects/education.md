@@ -4,10 +4,10 @@ date: 2015-01-03 00:00:00
 excerpt: "History of education in school and art."
 project_tagline: "History of education in school and art"
 project_year: 2014
-project_thumbnail: bca.png
-project_image_small: 
-project_image_medium: 
-project_image_large: 
+project_thumbnail: education_thumbnail.png
+project_image_small: education.jpg
+project_image_medium: education.jpg
+project_image_large: education.jpg
 categories:
 - Web
 tags:

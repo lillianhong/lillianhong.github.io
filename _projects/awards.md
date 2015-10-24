@@ -4,7 +4,7 @@ date: 2015-01-07 00:00:00
 excerpt: "Honors, awards, and accomplishments."
 project_tagline: "Honors, awards, and accomplishments"
 project_year: 2015
-project_thumbnail: scholastic.png
+project_thumbnail: awards.jpg
 project_image_small: awards.jpg
 project_image_medium: awards.jpg
 project_image_large: awards.jpg
