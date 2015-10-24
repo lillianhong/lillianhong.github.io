@@ -18,8 +18,12 @@ tags:
 
 ## Celebrating Art Summer 2015
 
-Under construction
+Artwork publication in the book "Celebrating Art Summer 2015"
+Title: Niko
+Medium: Acrylic paint
 
 ## Celebrating Art Summer 2014
 
-Under construction
+Artwork publication in the book "Celebrating Art Summer 2014"​
+Title: Catch of the Day
+Medium: Graphite pencil 

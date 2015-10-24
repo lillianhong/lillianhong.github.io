@@ -18,12 +18,9 @@ tags:
 
 ## Ellis Island
 
-Under construction
+- 3D simulation of New York City's 1920 Ellis Island
+- In partnership with the National Park Service
 
-## Knighthawk
+## KnightHawk
 
-Under construction
-
-## Animal Vision
-
-Under construction
+(In progress)

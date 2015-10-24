@@ -18,8 +18,10 @@ tags:
 
 ## Intern at Bergen County Academies
 
-Under construction
+- Ellis Island project 
+- Internship for 7 hours every Wednesday of the 2015-2016 school year
 
 ## Summer Intern at Bergen County Academies
 
-Under construction
+- Ellis Island project
+- 50 hours

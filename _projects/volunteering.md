@@ -16,14 +16,21 @@ tags:
 - Mobile first
 ---
 
-## Relay for Life
+## Relay for Life (American Cancer Society)
 
-Under construction
+- 2011-2015
+- Team Captain of a team of 10-15 students
+- Grand total fundraising: Approx. $5,000
 
 ## Animal Shelter Organizations
 
-Under construction
+PAWS (Protecting Animal Welfare Society) Club Cabinet Member
+- Fundraised and organized events for the adoption of dogs and cats
+RBARI (Ramapo Bergen Animal Refuge, Inc.) 
+- Helped improve the living conditions of animals in need of homes
 
-## Library Volunteering
+## Ramsey Public Library
 
-Under construction
+- Facilitated Children's Summer Reading Program
+- Helped organize children's movie nights
+- Shelved library books/media
