@@ -18,8 +18,21 @@ tags:
 
 ## Bergen County Academies
 
-- Academy for Engineering and Design Technology
-- Class of 2016
+Academy for Engineering and Design Technology
+Class of 2016
+
+Courses
+
+- Interactive Design I, II, III, Advanced Topics
+- Oculus Rift Development
+
+- AP Computer Science A
+- AP Calculus AB 
+- AP Psychology
+- IB Literature and Language HL
+- Advanced Physics (3)
+- Advanced Chemistry (3)
+- Advanced Biology (2)
 
 ## Sharron Art Center
 
@@ -30,4 +43,5 @@ tags:
 
 ## UPenn SAAST Precollege
 
-- Computer Graphics course for an introduction to 3D modeling in Autodesk Maya 
+- Computer Graphics course for an introduction to 3D modeling in Autodesk Maya
+- A+, 4.0, 1 college credit
