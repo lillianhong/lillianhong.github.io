@@ -1,6 +1,6 @@
 ---
 title: "Education"
-date: 2014-03-10 00:00:00
+date: 2015-01-06 00:00:00
 excerpt: "History of education in school and art."
 project_tagline: "History of education in school and art"
 project_year: 2014
