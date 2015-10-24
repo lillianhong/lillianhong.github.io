@@ -23,6 +23,7 @@ tags:
 ## Experience
 
 Skills:
+
 - Autodesk CAD
 - Autodesk Inventor
 - 3D printing
@@ -31,6 +32,7 @@ Skills:
 - Laser cutting
 
 Courses Taken:
+
 - Intermediate and Advanced Electrical Engineering
 - Computer Integrated Manufacturing
 - Principles of Engineering and Material Sciences

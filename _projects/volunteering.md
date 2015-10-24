@@ -25,8 +25,11 @@ Grand total fundraising: Approx. $5,000
 ## Animal Shelter Organizations
 
 PAWS (Protecting Animal Welfare Society) Club Cabinet Member
+
 - Fundraised and organized events for the adoption of dogs and cats
+
 RBARI (Ramapo Bergen Animal Refuge, Inc.) 
+
 - Helped improve the living conditions of animals in need of homes
 
 ## Ramsey Public Library
