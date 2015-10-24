@@ -20,6 +20,7 @@ tags:
 
 - Ellis Island project 
 - Internship for 7 hours every Wednesday of the 2015-2016 school year
+- [Blog](http://bcaintern2016.tumblr.com/)
 
 ## Summer Intern at Bergen County Academies
 
