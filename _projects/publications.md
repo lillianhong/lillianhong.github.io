@@ -4,10 +4,10 @@ date: 2015-01-06 00:00:00
 excerpt: "Artwork publications."
 project_tagline: "Artwork publications"
 project_year: 2015
-project_thumbnail: oculus.jpg
-project_image_small: publications_1500.jpg
-project_image_medium: publications_1500.jpg
-project_image_large: publications_1500.jpg
+project_thumbnail: publications.jpg
+project_image_small: publications.jpg
+project_image_medium: publications.jpg
+project_image_large: publications.jpg
 categories:
 - Web
 tags:
