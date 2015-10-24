@@ -5,9 +5,9 @@ excerpt: "Community service and organizations. "
 project_tagline: "Community service and organizations"
 project_year: 2012
 project_thumbnail: oculus.jpg
-project_image_small: oculus.jpg
-project_image_medium: oculus.jpg
-project_image_large: oculus.jpg
+project_image_small: 
+project_image_medium: 
+project_image_large: 
 categories:
 - Web
 tags:

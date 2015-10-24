@@ -5,9 +5,9 @@ excerpt: "Honors, awards, and accomplishments."
 project_tagline: "Honors, awards, and accomplishments"
 project_year: 2015
 project_thumbnail: scholastic.png
-project_image_small: scholastic.png
-project_image_medium: scholastic.png
-project_image_large: scholastic.png
+project_image_small: awards_1500.jpg
+project_image_medium: awards_1500.jpg
+project_image_large: awards_1500.jpg
 categories:
 - Web
 tags:

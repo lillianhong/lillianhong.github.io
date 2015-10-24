@@ -5,9 +5,9 @@ excerpt: "Engineering projects and experience."
 project_tagline: "Engineering projects and experience"
 project_year: 2015
 project_thumbnail: oculus.jpg
-project_image_small: oculus.jpg
-project_image_medium: oculus.jpg
-project_image_large: oculus.jpg
+project_image_small: 
+project_image_medium: 
+project_image_large: 
 categories:
 - Web
 tags:

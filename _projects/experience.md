@@ -5,9 +5,9 @@ excerpt: "Internships and other work experience."
 project_tagline: "Internships and other work experience"
 project_year: 2015
 project_thumbnail: bca.png
-project_image_small: bca.png
-project_image_medium: bca.png
-project_image_large: bca.png
+project_image_small: 
+project_image_medium: 
+project_image_large: 
 categories:
 - Web
 tags:

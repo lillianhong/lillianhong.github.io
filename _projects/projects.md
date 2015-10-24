@@ -5,9 +5,9 @@ excerpt: "Virtual reality projects."
 project_tagline: "Virtual reality projects"
 project_year: 2015
 project_thumbnail: oculus.jpg
-project_image_small: oculus.jpg
-project_image_medium: oculus.jpg
-project_image_large: oculus.jpg
+project_image_small: oculus_1500.jpg
+project_image_medium: oculus_1500.jpg
+project_image_large: oculus_1500.jpg
 categories:
 - Web
 tags:
