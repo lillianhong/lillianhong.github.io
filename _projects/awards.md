@@ -9,12 +9,7 @@ project_image_small: awards.jpg
 project_image_medium: awards.jpg
 project_image_large: awards.jpg
 categories:
-- Web
 tags:
-- RWD
-- Jekyll
-- Craft CMS
-- Mobile first
 ---
 
 ## Art
