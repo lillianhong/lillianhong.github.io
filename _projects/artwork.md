@@ -4,14 +4,12 @@ date: 2015-01-04 00:00:00
 excerpt: "Art portfolio."
 project_tagline: "Art portfolio"
 project_thumbnail: artwork.jpg
-project_image_small: 
-project_image_medium: 
-project_image_large: 
+project_image_small: artwork_header.jpg
+project_image_medium: artwork_header.jpg
+project_image_large: artwork_header.jpg
 categories:
 tags:
 ---
-
-Artwork test
 
 <p> <img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> </p>
 <p> <img src="/img/projects/artwork/b.JPG" alt="b" align="middle"> </p>
