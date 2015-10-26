@@ -13,8 +13,8 @@ tags:
 
 Artwork test
 
-<p> <img src="/img/projects/artwork/a.JPG" alt="a" align="left"> </p>
-<p> <img src="/img/projects/artwork/b.JPG" alt="b" align="left"> </p>
+<p> <img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> </p>
+<p> <img src="/img/projects/artwork/b.JPG" alt="b" align="middle"> </p>
 <p> <img src="/img/projects/artwork/c.JPG" alt="c" align="middle"> </p>
 <p> <img src="/img/projects/artwork/d.JPG" alt="d" align="middle"> </p>
 <p> <img src="/img/projects/artwork/e.jpg" alt="e" align="middle"> </p>
