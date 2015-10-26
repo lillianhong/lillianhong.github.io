@@ -8,21 +8,9 @@ project_image_small: artwork.jpg
 project_image_medium: artwork.jpg
 project_image_large: artwork.jpg
 categories:
-- Web
 tags:
-- RWD
-- Modular
-- Mobile first
 ---
 
-## Multimedia
+Artwork test
 
-Under construction
-
-## Acrylic
-
-Under construction
-
-## Graphite
-
-Under construction
+<p> Artwork test <img src="awards.jpg" align="middle"> </p>
