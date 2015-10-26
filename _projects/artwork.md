@@ -13,4 +13,4 @@ tags:
 
 Artwork test
 
-<p> Artwork test <img src="awards.jpg" alt="Awards" align="middle"> </p>
+<p> <img src="/img/projects/awards.jpg" alt="Awards" align="middle"> </p>
