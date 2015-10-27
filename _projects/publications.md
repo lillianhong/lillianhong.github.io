@@ -5,9 +5,9 @@ excerpt: "Artwork publications."
 project_tagline: "Artwork publications"
 project_year: 2015
 project_thumbnail: publications.jpg
-project_image_small: blank_image
-project_image_medium: blank_image
-project_image_large: blank_image
+project_image_small: blank_image.jpg
+project_image_medium: blank_image.jpg
+project_image_large: blank_image.jpg
 categories:
 tags:
 ---
@@ -25,6 +25,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 
@@ -38,6 +39,7 @@ tags:
 	Title: Catch of the Day <br>
 	Medium: Acrylic paint <br>
 	Size: 24x24 fabric canvas<br>
+	<br>
 	<br>
 	<br>
 	<br>

@@ -22,6 +22,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -32,6 +33,7 @@ tags:
 	Title: Mediapocalypse <br>
 	Medium: Multimedia (acrylic, acrylic paint, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
 	Size: 23x28 cardboard <br>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -48,6 +50,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -58,6 +61,7 @@ tags:
 	Title: Soaked<br>
 	Medium: Multimedia (watercolor, colored pencil)<br>
 	Size: 18x24 watercolor paper<br>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -74,6 +78,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -84,6 +89,7 @@ tags:
 	Title: Lifeline<br>
 	Medium: Multimedia (acrylic, styrofoam hemisphere, white yarn, book pages)<br>
 	Size: 32x37 cardboard <br>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -100,6 +106,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -110,6 +117,7 @@ tags:
 	Title: The Magician<br>
 	Medium: Multimedia (acrylic, playing cards)<br>
 	Size: 23x29 cardboard<br>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -126,6 +134,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -136,6 +145,7 @@ tags:
 	Title: Trapped <br>
 	Medium: Ink pen<br>
 	Size: 18x24 drawing paper <br>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -152,6 +162,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -165,6 +176,7 @@ tags:
 	<br>
 	<br>
 	<br>
+	<br>
 </p>
 
 <p> 
@@ -174,6 +186,7 @@ tags:
 	<br>
 	Title: Spacedog Scruff<br>
 	Program Used: Autodesk Maya<br>
+	<br>
 	<br>
 	<br>
 	<br>
