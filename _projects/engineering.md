@@ -9,11 +9,7 @@ project_image_small: engineering.jpg
 project_image_medium: engineering.jpg
 project_image_large: engineering.jpg
 categories:
-- Web
 tags:
-- RWD
-- Modular
-- Mobile first
 ---
 
 ## Senior Engineering Capstone: KnightHawk

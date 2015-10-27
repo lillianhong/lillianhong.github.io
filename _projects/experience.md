@@ -1,19 +1,15 @@
 ---
 title: "Work Experience"
 date: 2015-01-08 00:00:00
-excerpt: "Internships and other work experience."
-project_tagline: "Internships and other work experience"
+excerpt: "Current and past internships."
+project_tagline: "Current and past internships"
 project_year: 2015
 project_thumbnail: experience.jpg
 project_image_small: experience.jpg
 project_image_medium: experience.jpg
 project_image_large: experience.jpg
 categories:
-- Web
 tags:
-- RWD
-- Registration
-- Mobile first
 ---
 
 ## Intern at Bergen County Academies

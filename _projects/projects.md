@@ -1,5 +1,5 @@
 ---
-title: "VR Projects"
+title: "Projects"
 date: 2015-01-05 00:00:00
 excerpt: "Virtual reality projects."
 project_tagline: "Virtual reality projects"
@@ -9,11 +9,7 @@ project_image_small: projects.jpg
 project_image_medium: projects.jpg
 project_image_large: projects.jpg
 categories:
-- Web
 tags:
-- RWD
-- Modular
-- Mobile first
 ---
 
 ## Ellis Island

@@ -9,11 +9,7 @@ project_image_small: education.jpg
 project_image_medium: education.jpg
 project_image_large: education.jpg
 categories:
-- Web
 tags:
-- RWD
-- Photography
-- Mobile first
 ---
 
 ## Bergen County Academies

@@ -9,11 +9,7 @@ project_image_small: publications.jpg
 project_image_medium: publications.jpg
 project_image_large: publications.jpg
 categories:
-- Web
 tags:
-- RWD
-- Modular
-- One page
 ---
 
 ## Celebrating Art Summer 2015

@@ -1,19 +1,15 @@
 ---
 title: "Volunteering"
 date: 2015-01-01 00:00:00
-excerpt: "Community service and organizations. "
-project_tagline: "Community service and organizations"
+excerpt: "Volunteering and community service"
+project_tagline: "Volunteering and community service"
 project_year: 2012
 project_thumbnail: volunteering.jpg
 project_image_small: volunteering.jpg
 project_image_medium: volunteering.jpg
 project_image_large: volunteering.jpg
 categories:
-- Web
 tags:
-- RWD
-- Modular
-- Mobile first
 ---
 
 ## Relay for Life (American Cancer Society)
