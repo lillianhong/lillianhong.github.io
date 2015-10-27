@@ -13,7 +13,8 @@ tags:
 
 <p>
 	<br>
-	<img src="/img/projects/artwork/a.JPG" alt="a" align="middle" width="750"> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/a.JPG" target="_blank">
+		<img src="/img/projects/artwork/a.JPG" alt="a" align="middle" width="750"> </a> <br>
 	Title: Secrets <br>
 	Medium: Acrylic <br>
 	Size: 16x20 fabric canvas<br>
