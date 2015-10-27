@@ -12,6 +12,7 @@ tags:
 ---
 
 <p>
+	<br>
 	<img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> <br>
 	Title: "Secrets" <br>
 	Medium: Acrylic <br>
@@ -22,6 +23,7 @@ tags:
 </p>
 
 <p> 
+	<br>
 	<img src="/img/projects/artwork/b.JPG" alt="b" align="middle"> <br>
 	Title: Mediapocalypse <br>
 	Medium: Multimedia (acrylic, acrylic paint, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
@@ -32,46 +34,122 @@ tags:
 </p>
 
 <p> 
+	<br>
 	<img src="/img/projects/artwork/c.JPG" alt="c" align="middle"> <br>
 	Title: <br>
 	Medium: <br>
 	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
 <p> 
+	<br>
 	<img src="/img/projects/artwork/d.JPG" alt="d" align="middle"> <br>
 	Title: <br>
 	Medium: <br>
 	Size: <br>
+	<br>
+	<br>
+	<br>
  </p>
 
 <p> 
+	<br>
 	<img src="/img/projects/artwork/e.jpg" alt="e" align="middle"> <br>
 	Title: <br>
 	Medium: <br>
 	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/f.JPG" alt="f" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/f.JPG" alt="f" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/g.jpg" alt="g" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/g.jpg" alt="g" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/h.jpg" alt="h" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/h.jpg" alt="h" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/i.JPG" alt="i" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/i.JPG" alt="i" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/j.jpg" alt="j" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/j.jpg" alt="j" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/k.jpg" alt="k" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/k.jpg" alt="k" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/l.jpg" alt="l" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/l.jpg" alt="l" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/m.jpg" alt="m" align="middle"> 
+<p> 
+	<br>
+	<img src="/img/projects/artwork/m.jpg" alt="m" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
+	<br>
+	<br>
+	<br>
 </p>
