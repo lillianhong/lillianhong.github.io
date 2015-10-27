@@ -1,8 +1,8 @@
 ---
 title: "Engineering"
 date: 2015-01-02 00:00:00
-excerpt: "Engineering projects and experience."
-project_tagline: "Engineering projects and experience"
+excerpt: "Engineering projects, skills, and experience."
+project_tagline: "Engineering projects, skills, and experience"
 project_year: 2015
 project_thumbnail: engineering.jpg
 project_image_small: engineering.jpg

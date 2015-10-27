@@ -17,7 +17,7 @@ tags:
 Academy for Engineering and Design Technology
 Class of 2016
 
-Courses
+Courses Taken:
 
 - AP Computer Science A
 - AP Calculus AB 
@@ -29,6 +29,8 @@ Courses
 - Interactive Design I, II, III, Advanced Topics
 - Oculus Rift Development
 - Technology Research
+
+<li> <a href="http://bcts.bergen.org/">BCA Site</a> </li> 
 
 ## Sharron Art Center
 
