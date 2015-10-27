@@ -145,7 +145,7 @@ tags:
 
 <p> 
 	<br>
-	<img src="/img/projects/artwork/m.jpg" alt="m" align="middle" width="750"> <br>
+	<img src="/img/projects/artwork/m.png" alt="m" align="middle" width="750"> <br>
 	Title: Spacedog Scruff<br>
 	Program Used: Autodesk Maya<br>
 	<br>
