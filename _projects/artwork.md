@@ -11,11 +11,27 @@ categories:
 tags:
 ---
 
-<p> <img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> <br>
+<head>
+<style>
+
+p.big {
+    line-height: 200%;
+}
+</style>
+</head>
+
+
+<body>
+
+<p>
+	<img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> <br>
 	Title: "Secrets" <br>
 	Medium: Acrylic <br>
 	Size: 16x20 on fabric canvas<br>
 </p>
+
+<p class="big"> <br> </p>
+
 
 <p> <img src="/img/projects/artwork/b.JPG" alt="b" align="middle"> 
 </p>
