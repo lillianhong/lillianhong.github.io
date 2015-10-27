@@ -26,15 +26,30 @@ tags:
 	Title: Mediapocalypse <br>
 	Medium: Multimedia (acrylic, acrylic paint, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
 	Size: ___ on cardbarod <br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/c.JPG" alt="c" align="middle"> 
+<p> 
+	<img src="/img/projects/artwork/c.JPG" alt="c" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
 </p>
 
-<p> <img src="/img/projects/artwork/d.JPG" alt="d" align="middle">
+<p> 
+	<img src="/img/projects/artwork/d.JPG" alt="d" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
  </p>
 
-<p> <img src="/img/projects/artwork/e.jpg" alt="e" align="middle"> 
+<p> 
+	<img src="/img/projects/artwork/e.jpg" alt="e" align="middle"> <br>
+	Title: <br>
+	Medium: <br>
+	Size: <br>
 </p>
 
 <p> <img src="/img/projects/artwork/f.JPG" alt="f" align="middle"> 
