@@ -13,7 +13,7 @@ tags:
 
 <p>
 	<br>
-	<img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> <br>
+	<img src="/img/projects/artwork/a_highres.JPG" alt="a" align="middle"> <br>
 	Title: "Secrets" <br>
 	Medium: Acrylic <br>
 	Size: 16x20 fabric canvas<br>
