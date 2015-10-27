@@ -11,25 +11,21 @@ categories:
 tags:
 ---
 
-<head>
-<style>
-p.big {
-    line-height: 200%;
-}
-</style>
-</head>
-
-
-<body>
-
-<p class = "big">
+<p>
 	<img src="/img/projects/artwork/a.JPG" alt="a" align="middle"> <br>
 	Title: "Secrets" <br>
 	Medium: Acrylic <br>
 	Size: 16x20 on fabric canvas<br>
+	<br>
+	<br>
+	<br>
 </p>
 
-<p> <img src="/img/projects/artwork/b.JPG" alt="b" align="middle"> 
+<p> 
+	<img src="/img/projects/artwork/b.JPG" alt="b" align="middle"> <br>
+	Title: Mediapocalypse <br>
+	Medium: Multimedia (acrylic, acrylic paint, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
+	Size: ___ on cardbarod <br>
 </p>
 
 <p> <img src="/img/projects/artwork/c.JPG" alt="c" align="middle"> 
