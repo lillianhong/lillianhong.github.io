@@ -97,10 +97,7 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/g.jpg" target="_blank">
-		<img src="/img/projects/artwork/g.jpg" alt="g" align="middle" height="600"> </a> 
-	<a href="http://lillianhong.github.io/img/projects/artwork/g_2.jpg" target="_blank">
-		<img src="/img/projects/artwork/g_2.jpg" alt="g_2" align="middle" height="600"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/g.jpg" target="_blank"> <img src="/img/projects/artwork/g.jpg" alt="g" align="middle" height="600"> </a> <a href="http://lillianhong.github.io/img/projects/artwork/g_2.jpg" target="_blank"> <img src="/img/projects/artwork/g_2.jpg" alt="g_2" align="middle" height="600"> </a> <br>
 	<br>
 	Title: Reflections <br>
 	Medium: Multimedia (acrylic, aluminum wire, orange lightbulbs) <br>
