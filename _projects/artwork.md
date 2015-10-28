@@ -72,6 +72,36 @@ tags:
 	<a href="http://lillianhong.github.io/img/projects/artwork/e.jpg" target="_blank">
 		<img src="/img/projects/artwork/e.jpg" alt="e" align="middle" width="750"> </a> <br>
 	<br>
+	Title: Cascading <br>
+	Medium: Acrylic <br>
+	Size: 16x20 fabric canvas <br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
+<p> 
+	<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/f.jpg" target="_blank">
+		<img src="/img/projects/artwork/f.jpg" alt="f" align="middle" width="750"> </a> <br>
+	<br>
+	Title: Heroes<br>
+	Medium: Acrylic <br>
+	Size: 24x24 fabric canvas <br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
+<p> 
+	<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/g.jpg" target="_blank">
+		<img src="/img/projects/artwork/g.jpg" alt="g" align="middle" width="375"> </a> 
+	<a href="http://lillianhong.github.io/img/projects/artwork/g_2.jpg" target="_blank">
+		<img src="/img/projects/artwork/g_2.jpg" alt="g_2" align="middle" width="375"> </a> <br>
+	<br>
 	Title: Reflections <br>
 	Medium: Multimedia (acrylic, aluminum wire, orange lightbulbs) <br>
 	Size: 24x30 fabric canvas <br>
@@ -83,8 +113,8 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/f.jpg" target="_blank">
-		<img src="/img/projects/artwork/f.jpg" alt="f" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/h.jpg" target="_blank">
+		<img src="/img/projects/artwork/h.jpg" alt="h" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Lifeline<br>
 	Medium: Multimedia (acrylic, styrofoam hemisphere, white yarn, book pages)<br>
@@ -97,22 +127,8 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/g.jpg" target="_blank">
-		<img src="/img/projects/artwork/g.jpg" alt="g" align="middle" width="750"> </a> <br>
-	<br>
-	Title: Identity<br>
-	Medium: Multimedia (acrylic, 10″ diameter circular mirror, book pages, fire)<br>
-	Size: 24x48 wood<br>
-	<br>
-	<br>
-	<br>
-	<br>
-</p>
-
-<p> 
-	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/h.jpg" target="_blank">
-		<img src="/img/projects/artwork/h.jpg" alt="h" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/i.jpg" target="_blank">
+		<img src="/img/projects/artwork/i.jpg" alt="i" align="middle" width="750"> </a> <br>
 	<br>
 	Title: The Magician<br>
 	Medium: Multimedia (acrylic, playing cards, charcoal, fire)<br>
@@ -125,8 +141,22 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/i.jpg" target="_blank">
-		<img src="/img/projects/artwork/i.jpg" alt="i" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/j.jpg" target="_blank">
+		<img src="/img/projects/artwork/j.jpg" alt="j" align="middle" width="750"> </a> <br>
+	<br>
+	Title: Catch of the Day<br>
+	Medium: Acrylic<br>
+	Size: 24x24 fabric canvas <br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
+<p> 
+	<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/k.jpg" target="_blank">
+		<img src="/img/projects/artwork/k.jpg" alt="k" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Structure<br>
 	Medium: Acrylic and wood stain <br>
@@ -139,8 +169,8 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/j.jpg" target="_blank">
-		<img src="/img/projects/artwork/j.jpg" alt="j" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/l.jpg" target="_blank">
+		<img src="/img/projects/artwork/l.jpg" alt="l" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Trapped <br>
 	Medium: Ink pen<br>
@@ -153,8 +183,22 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/k.jpg" target="_blank">
-		<img src="/img/projects/artwork/k.jpg" alt="k" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/m.jpg" target="_blank">
+		<img src="/img/projects/artwork/m.jpg" alt="m" align="middle" width="750"> </a> <br>
+	<br>
+	Title: Memory Box <br>
+	Medium: Graphite pencil<br>
+	Size: 18x124 drawing paper<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
+<p> 
+	<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/n.jpg" target="_blank">
+		<img src="/img/projects/artwork/n.jpg" alt="n" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Soul <br>
 	Medium: Graphite pencil<br>
@@ -167,8 +211,22 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/l.jpg" target="_blank">
-		<img src="/img/projects/artwork/l.jpg" alt="l" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/o.jpg" target="_blank">
+		<img src="/img/projects/artwork/o.jpg" alt="o" align="middle" width="750"> </a> <br>
+	<br>
+	Title: A Bit Too Hot<br>
+	Medium: Graphite pencil and colored pencil<br>
+	Size: 18x24 drawing paper<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
+<p> 
+	<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/p.jpg" target="_blank">
+		<img src="/img/projects/artwork/p.jpg" alt="p" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Niko<br>
 	Medium: Graphite pencil<br>
@@ -181,8 +239,8 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/m.png" target="_blank">
-		<img src="/img/projects/artwork/m.png" alt="m" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/q.png" target="_blank">
+		<img src="/img/projects/artwork/q.png" alt="q" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Spacedog Scruff<br>
 	Program Used: Autodesk Maya<br>
