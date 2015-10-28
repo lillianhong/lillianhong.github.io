@@ -19,10 +19,9 @@ tags:
 
 ## Blink³
 
-- Virtual reality puzzle platformer 
-- Uses the Oculus Rift and 4 additional CPU fans for added wind effect when moving in game
-- Programs used: Unity, Arduino, Autodesk Maya, Adobe Photoshop
-- Created on a team of 5 high school students in 24 hours at a local hackathon, hackBCA II
+Blink³ is a virtual reality puzzle platformer game created by 5 high school students in 24 hours at a local hackathon, hackBCA II. It uses the Oculus Rift headset display for a full 360 degree environment, as well as a hat with 4 CPU fans attached for an added wind effect when moving in game. 
+
+In the 24 hours that we had, we used the programs Unity, Arduino, Autodesk Maya, and Adobe Photoshop to design, code, and 3D model the game. 
 
 <li> <a href="http://devpost.com/software/blink-avoka">DevPost</a> </li> 
 
