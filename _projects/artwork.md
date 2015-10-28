@@ -101,7 +101,7 @@ tags:
 		<img src="/img/projects/artwork/g.jpg" alt="g" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Identity<br>
-	Medium: Multimedia (acrylic, 10″ diameter circular mirror)<br>
+	Medium: Multimedia (acrylic, 10″ diameter circular mirror, book pages, fire)<br>
 	Size: 24x48 wood<br>
 	<br>
 	<br>
@@ -115,7 +115,7 @@ tags:
 		<img src="/img/projects/artwork/h.jpg" alt="h" align="middle" width="750"> </a> <br>
 	<br>
 	Title: The Magician<br>
-	Medium: Multimedia (acrylic, playing cards)<br>
+	Medium: Multimedia (acrylic, playing cards, charcoal, fire)<br>
 	Size: 23x29 cardboard<br>
 	<br>
 	<br>
