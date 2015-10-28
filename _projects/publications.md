@@ -38,7 +38,7 @@ tags:
 	Artwork publication in the book "Celebrating Art Summer 2014"​ <br>
 	Title: Catch of the Day <br>
 	Medium: Acrylic paint <br>
-	Size: 24x24 fabric canvas<br>
+	Size: 24x24 canvas<br>
 	<br>
 	<br>
 	<br>
