@@ -24,10 +24,10 @@ tags:
 - Programs used: Unity, Arduino, Autodesk Maya, Adobe Photoshop
 - Created on a team of 5 high school students in 24 hours at a local hackathon, hackBCA II
 
+<li> <a href="http://devpost.com/software/blink-avoka">DevPost</a> </li> 
+
 <li> <a href="https://www.youtube.com/watch?v=R1hq0ZHNIfQ">Demo Video: </a> </li> 
 
 <video width="750" controls>
   <source src="/img/projects/blink_cubed.mp4" type="video/mp4">
 </video>
-
-<li> <a href="http://devpost.com/software/blink-avoka">DevPost</a> </li> 
