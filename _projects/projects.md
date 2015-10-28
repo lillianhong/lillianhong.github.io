@@ -5,9 +5,9 @@ excerpt: "Virtual reality projects."
 project_tagline: "Virtual reality projects"
 project_year: 2015
 project_thumbnail: projects.jpg
-project_image_small: projects.jpg
-project_image_medium: projects.jpg
-project_image_large: projects.jpg
+project_image_small: blank_image.jpg
+project_image_medium: blank_image.jpg
+project_image_large: blank_image.jpg
 categories:
 tags:
 ---
@@ -16,7 +16,7 @@ tags:
 
 The Ellis Island project is a virtual reality simulation of New York City's 1920 Ellis Island. In partnership with the National Park Service, our team of four high school students modeled and designed a digital 3D version of this historically significant site. 
 
-With the use of the Oculus Rift for a 360 degree viewpoint, the simulation enables the player to walk through a historical 1920 version of one of Ellis Island's main buildings: the Registry Room. There, the player is able to meet different immigrants waiting in line and ask them about their family, country, motives, and more. 
+With the use of the Oculus Rift for a 360 degree viewpoint, the simulation enables the player to walk through a historical 1920 version of one of Ellis Island's main buildings: the Registry Room. There, the player is able to meet different immigrants waiting in line and ask them about their family, country, future motives, and more. 
 
 The programs we use include Unity, Autodesk Maya, Adobe Photoshop, Blender, MakeHuman, Quixel, and Arduino. 
 
