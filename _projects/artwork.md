@@ -98,7 +98,7 @@ tags:
 <p> 
 	<br>
 	<a href="http://lillianhong.github.io/img/projects/artwork/g_3.jpg" target="_blank"> 
-		<img src="/img/projects/artwork/g_3.jpg" alt="g_3" align="left" width="750"> </a> <<br>
+		<img src="/img/projects/artwork/g_3.jpg" alt="g_3" align="left" width="750"> </a> <br>
 	<br>
 	Title: Reflections <br>
 	Medium: Multimedia (acrylic, aluminum wire, 2 orange lightbulbs) <br>
@@ -241,7 +241,7 @@ tags:
 		<img src="/img/projects/artwork/q.png" alt="q" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Spacedog Scruff<br>
-	Medium: Digital 3D model
+	Medium: Digital 3D model<br>
 	Program Used: Autodesk Maya<br>
 	<br>
 	<br>
