@@ -18,7 +18,7 @@ tags:
 	<br>
 	Title: Secrets <br>
 	Medium: Acrylic <br>
-	Size: 18x24 fabric canvas<br>
+	Size: 18x24 canvas<br>
 	<br>
 	<br>
 	<br>
@@ -74,7 +74,7 @@ tags:
 	<br>
 	Title: Cascading <br>
 	Medium: Acrylic <br>
-	Size: 16x20 fabric canvas <br>
+	Size: 16x20 canvas <br>
 	<br>
 	<br>
 	<br>
@@ -88,7 +88,7 @@ tags:
 	<br>
 	Title: Heroes<br>
 	Medium: Acrylic <br>
-	Size: 24x24 fabric canvas <br>
+	Size: 24x24 canvas <br>
 	<br>
 	<br>
 	<br>
@@ -97,14 +97,12 @@ tags:
 
 <p> 
 	<br>
-	<a href="http://lillianhong.github.io/img/projects/artwork/g.jpg" target="_blank"> 
-		<img src="/img/projects/artwork/g.jpg" alt="g" align="left" height="600"> </a> 
-	<a href="http://lillianhong.github.io/img/projects/artwork/g_2.jpg" target="_blank"> 
-		<img src="/img/projects/artwork/g_2.jpg" alt="g_2" align="right" height="600"> </a> <<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/g_3.jpg" target="_blank"> 
+		<img src="/img/projects/artwork/g_3.jpg" alt="g_3" align="left" width="750"> </a> <<br>
 	<br>
 	Title: Reflections <br>
 	Medium: Multimedia (acrylic, aluminum wire, 2 orange lightbulbs) <br>
-	Size: 24x30 fabric canvas <br>
+	Size: 24x30 canvas <br>
 	<br>
 	<br>
 	<br>
@@ -146,7 +144,7 @@ tags:
 	<br>
 	Title: Catch of the Day<br>
 	Medium: Acrylic<br>
-	Size: 24x24 fabric canvas <br>
+	Size: 24x24 canvas <br>
 	<br>
 	<br>
 	<br>
@@ -243,6 +241,7 @@ tags:
 		<img src="/img/projects/artwork/q.png" alt="q" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Spacedog Scruff<br>
+	Medium: Digital 3D model
 	Program Used: Autodesk Maya<br>
 	<br>
 	<br>
