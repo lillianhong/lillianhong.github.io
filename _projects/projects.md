@@ -20,6 +20,10 @@ With the use of the Oculus Rift for a 360 degree viewpoint, the simulation enabl
 
 The programs we use include Unity, Autodesk Maya, Adobe Photoshop, Blender, MakeHuman, Quixel, and Arduino. 
 
+<video width="750" controls>
+  <source src="/img/projects/ellis_island.mp4" type="video/mp4">
+</video>
+
 
 ## Blink³
 
