@@ -14,7 +14,7 @@ tags:
 
 ## Senior Engineering Capstone: KnightHawk
 
-(In progress)
+[In progress]
 
 ## Experience
 
