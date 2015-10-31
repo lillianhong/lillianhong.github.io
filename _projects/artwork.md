@@ -44,7 +44,7 @@ tags:
 	<a href="http://lillianhong.github.io/img/projects/artwork/c.jpg" target="_blank">
 		<img src="/img/projects/artwork/c.jpg" alt="c" align="middle" width="750"> </a> <br>
 	<br>
-	Title: Rhythm<br>
+	Title: Expression<br>
 	Medium: Acrylic<br>
 	Size: 24x24 wood<br>
 	<br>
