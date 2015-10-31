@@ -61,6 +61,7 @@ tags:
 	Title: Soaked<br>
 	Medium: Multimedia (watercolor, colored pencil)<br>
 	Size: 18x24 watercolor paper<br>
+	Awards: Scholastic Art & Writing Awards Gold Key, New Jersey Congressional Honorable Mention <br>
 	<br>
 	<br>
 	<br>
@@ -145,6 +146,7 @@ tags:
 	Title: Catch of the Day<br>
 	Medium: Acrylic<br>
 	Size: 24x24 canvas <br>
+	Published in "Celebrating Art Summer 2015" <br>
 	<br>
 	<br>
 	<br>
@@ -187,6 +189,7 @@ tags:
 	Title: Memory Box <br>
 	Medium: Graphite pencil<br>
 	Size: 18x124 drawing paper<br>
+	Awards: Scholastic Art & Writing Awards Honorable Mention <br>
 	<br>
 	<br>
 	<br>
@@ -201,6 +204,7 @@ tags:
 	Title: Soul <br>
 	Medium: Graphite pencil<br>
 	Size: 18x24 drawing paper<br>
+	Awards: Scholastic Art & Writing Awards Silver Key <br>
 	<br>
 	<br>
 	<br>
@@ -229,6 +233,7 @@ tags:
 	Title: Niko<br>
 	Medium: Graphite pencil<br>
 	Size: 14x17 drawing paper<br>
+	Published in "Celebrating Art Summer 2014" <br>
 	<br>
 	<br>
 	<br>
