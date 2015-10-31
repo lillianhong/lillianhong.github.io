@@ -15,30 +15,29 @@ tags:
 ## Celebrating Art Summer 2015
 
 <p> 
-	<a href="http://lillianhong.github.io/img/projects/artwork/p.jpg" target="_blank">
-		<img src="/img/projects/artwork/p.jpg" alt="p" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/j.jpg" target="_blank">
+		<img src="/img/projects/artwork/j.jpg" alt="j" align="middle" width="750"> </a> <br>
 	<br>
-	Artwork publication in the book "Celebrating Art Summer 2015" <br>
-	Title: Niko <br>
-	Medium: Graphite pencil<br>
-	Size: 14x17 drawing paper<br>
+	Artwork publication in the book "Celebrating Art Summer 2015"​ <br>
+	Title: Catch of the Day <br>
+	Medium: Acrylic paint <br>
+	Size: 24x24 canvas<br>
 	<br>
 	<br>
 	<br>
 	<br>
 </p>
 
-
 ## Celebrating Art Summer 2014
 
 <p> 
-	<a href="http://lillianhong.github.io/img/projects/artwork/j.jpg" target="_blank">
-		<img src="/img/projects/artwork/j.jpg" alt="j" align="middle" width="750"> </a> <br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/p.jpg" target="_blank">
+		<img src="/img/projects/artwork/p.jpg" alt="p" align="middle" width="750"> </a> <br>
 	<br>
-	Artwork publication in the book "Celebrating Art Summer 2014"​ <br>
-	Title: Catch of the Day <br>
-	Medium: Acrylic paint <br>
-	Size: 24x24 canvas<br>
+	Artwork publication in the book "Celebrating Art Summer 2014" <br>
+	Title: Niko <br>
+	Medium: Graphite pencil<br>
+	Size: 14x17 drawing paper<br>
 	<br>
 	<br>
 	<br>
