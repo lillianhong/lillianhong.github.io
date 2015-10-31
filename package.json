@@ -1,10 +1,10 @@
 {
-  "name": "webstoemp",
-  "description": "Personal website of Jérôme Coupé",
+  "name": "lillianhong",
+  "description": "Portfolio Resume of Lillian Hong",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeromecoupe/jeromecoupe.github.io"
+    "url": "https://github.com/lillianhong/lillianhong.github.io"
   },
   "devDependencies": {
     "browser-sync": "2.7.x",

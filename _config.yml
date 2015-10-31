@@ -1,8 +1,8 @@
 # Site variables
-html_description: "The blog and portfolio of Jérôme Coupé, a web designer from Brussels, Belgium"
+html_description: "The portfolio of Lillian Hong, a high school student from Bergen County Academies."
 
 # Build settings
-url: "http://www.webstoemp.com"
+url: "http://www.lillianhong.github.io"
 exclude: [node_modules/, scss/, gulpfile.js, package.json, README.md, js/modules/]
 highlighter: pygments
 markdown: kramdown
