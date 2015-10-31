@@ -248,3 +248,18 @@ tags:
 	<br>
 	<br>
 </p>
+
+<p> 
+	<br>
+	<a href="http://lillianhong.github.io/img/projects/artwork/r.png" target="_blank">
+		<img src="/img/projects/artwork/r.png" alt="r" align="middle" width="750"> </a> <br>
+	<br>
+	Title: Meerkat<br>
+	Medium: Digital 3D model<br>
+	Program Used: Autodesk Maya<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
