@@ -36,6 +36,13 @@ Lions Club Peace Poster Contest:
 - 2010 NJ State 1st place
 - 2009 NJ State 2nd place
 
+## Writing
+
+Scholastic Art and Writing Awards
+
+- 2013 Honorable Mention (Short Story)
+- 2012 Honorable Mention (Short Story)
+
 ## Piano
 
 ABRSM (Associated Board of the Royal Schools of Music) International London Exam
