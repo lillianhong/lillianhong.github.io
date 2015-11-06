@@ -45,7 +45,7 @@ tags:
 		<img src="/img/projects/artwork/c.jpg" alt="c" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Expression<br>
-	Medium: Acrylic<br>
+	Medium: Acrylic, marker<br>
 	Size: 24x24 wood<br>
 	<br>
 	<br>
