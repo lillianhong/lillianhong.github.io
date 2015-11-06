@@ -31,8 +31,8 @@ tags:
 		<img src="/img/projects/artwork/b.jpg" alt="b" align="middle" width="750"> </a> <br>
 	<br>
 	Title: Mediapocalypse <br>
-	Medium: Multimedia (acrylic, acrylic paint, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
-	Size: 23x28 cardboard <br>
+	Medium: Multimedia (acrylic, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
+	Size: 23x28x2 cardboard <br>
 	<br>
 	<br>
 	<br>
@@ -103,7 +103,7 @@ tags:
 	<br>
 	Title: Reflections <br>
 	Medium: Multimedia (acrylic, aluminum wire, 2 orange lightbulbs) <br>
-	Size: 24x30 canvas <br>
+	Size: 24x30x5 canvas <br>
 	<br>
 	<br>
 	<br>
@@ -117,7 +117,7 @@ tags:
 	<br>
 	Title: Lifeline<br>
 	Medium: Multimedia (acrylic, styrofoam hemisphere, white yarn, book pages)<br>
-	Size: 32x37 cardboard <br>
+	Size: 32x37x4 cardboard <br>
 	<br>
 	<br>
 	<br>
@@ -131,7 +131,7 @@ tags:
 	<br>
 	Title: The Magician<br>
 	Medium: Multimedia (acrylic, playing cards, charcoal, fire)<br>
-	Size: 23x29 cardboard<br>
+	Size: 23x29x2 cardboard<br>
 	<br>
 	<br>
 	<br>
