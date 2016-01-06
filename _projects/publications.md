@@ -12,6 +12,22 @@ categories:
 tags:
 ---
 
+## Celebrating Art Fall 2015
+
+<p> 
+	<a href="http://lillianhong.github.io/img/projects/artwork/e.jpg" target="_blank">
+		<img src="/img/projects/artwork/e.jpg" alt="e" align="middle" width="750"> </a> <br>
+	<br>
+	Artwork publication in the book "Celebrating Art Fall 2015"​ <br>
+	Title: Cascading <br>
+	Medium: Acrylic <br>
+	Size: 16x20 canvas<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</p>
+
 ## Celebrating Art Summer 2015
 
 <p> 
@@ -20,7 +36,7 @@ tags:
 	<br>
 	Artwork publication in the book "Celebrating Art Summer 2015"​ <br>
 	Title: Catch of the Day <br>
-	Medium: Acrylic paint <br>
+	Medium: Acrylic <br>
 	Size: 24x24 canvas<br>
 	<br>
 	<br>
