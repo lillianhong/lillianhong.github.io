@@ -33,6 +33,7 @@ tags:
 	Title: Mediapocalypse <br>
 	Medium: Multimedia (acrylic, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
 	Size: 23x28x2 cardboard <br>
+	Awards: Scholastic Art & Writing Awards Silver Key<br>
 	<br>
 	<br>
 	<br>
@@ -47,6 +48,7 @@ tags:
 	Title: Expression<br>
 	Medium: Acrylic, marker<br>
 	Size: 24x24 wood<br>
+	Awards: Scholastic Art & Writing Awards Honorable Mention<br>
 	<br>
 	<br>
 	<br>
@@ -132,6 +134,7 @@ tags:
 	Title: The Magician<br>
 	Medium: Multimedia (acrylic, playing cards, charcoal, fire)<br>
 	Size: 23x29x2 cardboard<br>
+	Awards: Scholastic Art & Writing Awards Gold Key<br>
 	<br>
 	<br>
 	<br>
