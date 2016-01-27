@@ -78,6 +78,7 @@ tags:
 	Title: Cascading <br>
 	Medium: Acrylic <br>
 	Size: 16x20 canvas <br>
+	Published in "Celebrating Art Fall 2015" <br>
 	<br>
 	<br>
 	<br>
@@ -132,7 +133,7 @@ tags:
 		<img src="/img/projects/artwork/i.jpg" alt="i" align="middle" width="750"> </a> <br>
 	<br>
 	Title: The Magician<br>
-	Medium: Multimedia (acrylic, playing cards, charcoal, fire)<br>
+	Medium: Multimedia (acrylic, playing cards, coffee, charcoal, fire)<br>
 	Size: 23x29x2 cardboard<br>
 	Awards: Scholastic Art & Writing Awards Gold Key<br>
 	<br>
