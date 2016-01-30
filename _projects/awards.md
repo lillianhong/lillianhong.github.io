@@ -16,6 +16,7 @@ tags:
 
 Scholastic Art and Writing Awards
 
+- 2015 Gold Key, Silver Key, Honorable Mention
 - 2014 Honorable Mentions (2)
 - 2013 Silver Key, Honorable Mention
 - 2012 Gold Key
