@@ -24,13 +24,13 @@ url: "http://lillianhong.github.io" # the base hostname & protocol for your site
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
-  text: I hope you enjoy my collection
+  title: Welcome
+  text: The portfolio and resume of a student pursuing computer science and digital art.
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: RESUME
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: LILLIAN HONG
+closing-para: Rensselaer Polytechnic Institute // 2020
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
