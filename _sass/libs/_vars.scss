@@ -88,7 +88,7 @@
 		border2:			#fff,
 		border2-bg:			rgba(144,144,144,0.5),
 
-		accent1: (
+		accent1: ( //DARK RED
 			bg:				#801010,
 			fg-bold:		#ffffff,
 			fg:				mix(#801010, #ffffff, 25%),
@@ -99,11 +99,11 @@
 			border2-bg:		rgba(255,255,255,0.2)
 		),
 
-		accent2: (
-			bg:				#00ffcc,
+		accent2: ( //ICONS LIGHT RED
+			bg:				#f9d1d1,
 			fg-bold:		#ffffff,
-			fg:				mix(#00ffcc, #ffffff, 25%),
-			fg-light:		mix(#00ffcc, #ffffff, 40%),
+			fg:				mix(#f9d1d1, #ffffff, 25%),
+			fg-light:		mix(#f9d1d1, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
