@@ -1,23 +1,26 @@
-<header class="siteheader">
-
-  <div class="siteheader__navbar">
-    <div class="container  clearfix">
-
-      <p class="logo"><a href="/"><img src="/img/lillianhong_print.png" width="117" height="16" alt="lillianhong"></a></p>
-
-      {% include nav.html %}
-
-    </div>
-  </div>
-
-  {% if page.banner == true %}
-  <div class="siteheader__banner  siteheader__banner--2" role="banner" style="background-image: url(../img/banners/banner.png)">
-    <div class="container  animation-slide-in">
-      <h1 class="banner-title">Lillian Hong</h1>
-      <h2 class="banner-tagline">Bergen County Academies</h2>
-      <p><a href="/work/" class="banner-button">Portfolio</a></p>
-    </div>
-  </div>
-  {% endif %}
-
+<!-- Header -->
+<header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
+  <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="special">
+        <a href="#menu" class="menuToggle"><span>Menu</span></a>
+        <div id="menu">
+          <ul>
+            <li><a href="{{ "/index.html" | prepend: site.baseurl }}">Home</a></li>{%
+            assign sorted_pages = site.pages | sort: 'key','last' %}{%
+            for my_page in sorted_pages %}{%
+              if my_page.title %}{%
+                unless my_page.options contains 'nomenu' %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>{%
+                endunless %}{%
+              endif %}{%
+            endfor %}
+            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
+                   class="icon fa-feed"> RSS Feed</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </nav>
 </header>
