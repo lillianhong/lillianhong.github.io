@@ -8,42 +8,264 @@ image: pic02.jpg
 background-image: pic02.jpg
 ---
 
-{%  if site.posts %}{%
-      if site.tags.featured %}
-  <hr style="margin:0 0 1em 0;" />
-  <h4>Featured</h4>
-  <ul class="post-list">{%
-        for post in site.categories.topics %}{%
-          if post.tags contains "featured" %}
-      <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="container">
-            <p class="post-title">{{ post.title }}</p>
-            <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
-            <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
-          </div>
-        </a>
-      </li>{%
-          endif %}{%
-        endfor %}
-  </ul>{%
-      endif %}
-  <hr style="margin:1em 0 1em 0;" />
+<p>
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/a.jpg" target="_blank">
+    <img src="/images/artwork/a.jpg" alt="a" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Secrets <br>
+  Medium: Acrylic <br>
+  Size: 18x24 canvas<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
 
-    <ul style="list-style-type: none;">{%
-      assign p = '9999'
-%}{%  for post in site.categories.topics
-%}{%    assign n = post.date | date: "%Y"
-%}{%    if n != p
-%}{%      assign p = n
-%}
-      <br /><h5>{{ n }}</h5>{%
-        endif %}
-      <li style="padding-bottom: 6px;"><code>[{{ post.date | date: "%d %b" }}]</code>&nbsp;
-        <a href="{{ post.url }}" style="white-space: nowrap;"><b>{{ post.title }}</b></a>&nbsp;
-          {{ post.excerpt | strip_html | truncatewords: 12 }}</li>{%
-      endfor
-%}
-    </ul>
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/b.jpg" target="_blank">
+    <img src="/images/artwork/b.jpg" alt="b" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Mediapocalypse <br>
+  Medium: Multimedia (acrylic, ink pen, black and silver poster paper, construction paper, aluminum wire, electrical cable wires) <br>
+  Size: 23x28x2 cardboard <br>
+  Awards: Scholastic Art & Writing Awards Silver Key<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
 
-{%  endif %}
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/c.jpg" target="_blank">
+    <img src="/images/artwork/c.jpg" alt="c" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Expression<br>
+  Medium: Acrylic, marker<br>
+  Size: 24x24 wood<br>
+  Awards: Scholastic Art & Writing Awards Honorable Mention<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/d.jpg" target="_blank">
+    <img src="/images/artwork/d.jpg" alt="d" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Soaked<br>
+  Medium: Multimedia (watercolor, colored pencil)<br>
+  Size: 18x24 watercolor paper<br>
+  Awards: Scholastic Art & Writing Awards Gold Key, New Jersey Congressional Honorable Mention <br>
+  <br>
+  <br>
+  <br>
+  <br>
+ </p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/e.jpg" target="_blank">
+    <img src="/images/artwork/e.jpg" alt="e" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Cascading <br>
+  Medium: Acrylic <br>
+  Size: 16x20 canvas <br>
+  Published in "Celebrating Art Fall 2015" <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/f.jpg" target="_blank">
+    <img src="/images/artwork/f.jpg" alt="f" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Heroes<br>
+  Medium: Acrylic <br>
+  Size: 24x24 canvas <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/g_3.jpg" target="_blank"> 
+    <img src="/images/artwork/g_3.jpg" alt="g_3" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Reflections <br>
+  Medium: Multimedia (acrylic, aluminum wire, 2 orange lightbulbs) <br>
+  Size: 24x30x5 canvas <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/h.jpg" target="_blank">
+    <img src="/images/artwork/h.jpg" alt="h" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Lifeline<br>
+  Medium: Multimedia (acrylic, styrofoam hemisphere, white yarn, book pages)<br>
+  Size: 32x37x4 cardboard <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/i.jpg" target="_blank">
+    <img src="/images/artwork/i.jpg" alt="i" align="middle" width="750"> </a> <br>
+  <br>
+  Title: The Magician<br>
+  Medium: Multimedia (acrylic, playing cards, coffee, charcoal, fire)<br>
+  Size: 23x29x2 cardboard<br>
+  Awards: Scholastic Art & Writing Awards Gold Key<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/j.jpg" target="_blank">
+    <img src="/images/artwork/j.jpg" alt="j" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Catch of the Day<br>
+  Medium: Acrylic<br>
+  Size: 24x24 canvas <br>
+  Published in "Celebrating Art Summer 2015" <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/k.jpg" target="_blank">
+    <img src="/images/artwork/k.jpg" alt="k" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Structure<br>
+  Medium: Acrylic and wood stain <br>
+  Size: 16x20 wood <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/l.jpg" target="_blank">
+    <img src="/images/artwork/l.jpg" alt="l" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Trapped <br>
+  Medium: Ink pen<br>
+  Size: 18x24 drawing paper <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/m.jpg" target="_blank">
+    <img src="/images/artwork/m.jpg" alt="m" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Memory Box <br>
+  Medium: Graphite pencil<br>
+  Size: 18x124 drawing paper<br>
+  Awards: Scholastic Art & Writing Awards Honorable Mention <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/n.jpg" target="_blank">
+    <img src="/images/artwork/n.jpg" alt="n" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Soul <br>
+  Medium: Graphite pencil<br>
+  Size: 18x24 drawing paper<br>
+  Awards: Scholastic Art & Writing Awards Silver Key <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/o.jpg" target="_blank">
+    <img src="/images/artwork/o.jpg" alt="o" align="middle" width="750"> </a> <br>
+  <br>
+  Title: A Bit Too Hot<br>
+  Medium: Graphite pencil and colored pencil<br>
+  Size: 18x24 drawing paper<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/p.jpg" target="_blank">
+    <img src="/images/artwork/p.jpg" alt="p" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Niko<br>
+  Medium: Graphite pencil<br>
+  Size: 14x17 drawing paper<br>
+  Published in "Celebrating Art Summer 2014" <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/q.png" target="_blank">
+    <img src="/images/artwork/q.png" alt="q" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Meerkat<br>
+  Medium: Digital 3D model<br>
+  Program Used: Autodesk Maya<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+<p> 
+  <br>
+  <a href="http://lillianhong.github.io/images/artwork/r.png" target="_blank">
+    <img src="/images/artwork/r.png" alt="r" align="middle" width="750"> </a> <br>
+  <br>
+  Title: Spacedog Scruff<br>
+  Medium: Digital 3D model<br>
+  Program Used: Autodesk Maya<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
