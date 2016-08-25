@@ -1,20 +1,48 @@
 ---
-priority: 0.7
-title: Project Y
-excerpt: A better example of a and b, with c
-categories: works
-background-image: works-sample.png
-tags:
-  - This
-  - That
-  - The other
+title: Publications
+excerpt: Honors, Awards, & Accomplishments
+categories: Resume
+options: minihead
+tags: featured
+
 ---
 
-#### Results
+<h3>Celebrating Art Fall 2015</h3>
 
-- 24% increase in M, measured by N
-- ...
+<p> 
+	<a href="http://lillianhong.github.io/img/projects/artwork/e.jpg" target="_blank">
+		<img src="/img/projects/artwork/e.jpg" alt="e" align="middle" width="750"> </a> <br>
+	<br>
+	Artwork publication in the book "Celebrating Art Fall 2015"​ <br>
+	Title: Cascading <br>
+	Medium: Acrylic <br>
+	Size: 16x20 canvas<br>
+</p>
 
-#### Summary
+<hr />
 
-Project Y involved ....
+<h3>Celebrating Art Summer 2015</h3>
+
+<p> 
+	<a href="http://lillianhong.github.io/img/projects/artwork/j.jpg" target="_blank">
+		<img src="/img/projects/artwork/j.jpg" alt="j" align="middle" width="750"> </a> <br>
+	<br>
+	Artwork publication in the book "Celebrating Art Summer 2015"​ <br>
+	Title: Catch of the Day <br>
+	Medium: Acrylic <br>
+	Size: 24x24 canvas<br>
+</p>
+
+<hr />
+
+<h3>Celebrating Art Summer 2014</h3>
+
+<p> 
+	<a href="http://lillianhong.github.io/img/projects/artwork/p.jpg" target="_blank">
+		<img src="/img/projects/artwork/p.jpg" alt="p" align="middle" width="750"> </a> <br>
+	<br>
+	Artwork publication in the book "Celebrating Art Summer 2014" <br>
+	Title: Niko <br>
+	Medium: Graphite pencil<br>
+	Size: 14x17 drawing paper<br>
+</p>
