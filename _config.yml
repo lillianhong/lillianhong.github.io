@@ -17,7 +17,7 @@ owner:
   name: Lillian Hong
   email: lillianhong987@gmail.com
   url: http://lillianhong.github.io
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2015 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lillianhong.github.io" # the base hostname & protocol for your site
 
@@ -25,7 +25,8 @@ url: "http://lillianhong.github.io" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome
-  text: The portfolio and resume of a student pursuing computer science and digital art.
+  text: The portfolio and resume of a student pursuing new ways to benefit the lives of others through the implementation of design and developing
+technology.
 # - title for your blog's featured posts
 features-title: RESUME
 # - displayed at the bottom
