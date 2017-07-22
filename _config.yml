@@ -25,9 +25,9 @@ url: "http://lillianhong.github.io" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome
-  text: The portfolio and resume of a student pursuing new ways to benefit the lives of others through the implementation of design and developing technology.
+  text: The portfolio and resume of a student pursuing simulation design.
 # - title for your blog's featured posts
-features-title: RESUME
+features-title: EXTENDED RESUME
 # - displayed at the bottom
 closing-head: LILLIAN HONG
 closing-para: Rensselaer Polytechnic Institute // 2020
