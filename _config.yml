@@ -25,7 +25,8 @@ url: "http://lillianhong.github.io" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome
-  text: The portfolio and resume of a student pursuing simulation design.
+  text: Student, Artist, VR Enthusiast
+  text: Pursuing simulation design
 # - title for your blog's featured posts
 features-title: EXTENDED RESUME
 # - displayed at the bottom
