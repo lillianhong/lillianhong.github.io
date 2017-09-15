@@ -1,3 +1,3 @@
 # lillianhong.github.io
-#Lillian Hong's personal website for portofolio and resume purposes. 
-#Last Updated: July 2017
+#Lillian Hong's personal website for portfolio and resume purposes. 
+#Last Updated: September 2017
